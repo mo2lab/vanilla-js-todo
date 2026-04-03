@@ -1,5 +1,3 @@
-import './style.css';
-
 // 追加ボタンを押した時の処理
 const onClickAdd = () => {
   // テキストボックスの値を取得し、中身を空にする
